@@ -1,0 +1,23 @@
+           Kasir.com
+     Jl.Soekarno Hatta No.9,
+    Jatimulyo, Kec.Lowokwaru
+        Kota Malang 65141
+                             
+           TABLE:C4        
+Customer:Mas Yuks	     Id Kasir:4
+-------------------------------
+-------------------------------
+2  Espresso		 24000
+1  Mie Tarik		 12000
+-------------------------------
+-------------------------------
+Subtotal 		 36000
+Ppn 			 3600
+-------------------------------
+TOTAL 			 39600
+Cash 			 39600
+Kembalian 		 0
+                             
+          Via linkaja 
+<-----2020/05/31 10:47:59----->
+         Terima Kasih

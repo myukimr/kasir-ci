@@ -1,0 +1,25 @@
+           Kasir.com
+     Jl.Soekarno Hatta No.9,
+    Jatimulyo, Kec.Lowokwaru
+        Kota Malang 65141
+                             
+           TABLE:A1        
+Customer:Tri	     Id Kasir:4
+-------------------------------
+-------------------------------
+1  Cappucino		 12000
+1  Chocolate		 15000
+1  Cireng		 8000
+1  Donat		 12000
+-------------------------------
+-------------------------------
+Subtotal 		 47000
+Ppn 			 4700
+-------------------------------
+TOTAL 			 51700
+Cash 			 52000
+Kembalian 		 300
+                             
+          Via tunai 
+<-----2021/01/04 10:19:57----->
+         Terima Kasih
